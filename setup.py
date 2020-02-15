@@ -9,12 +9,12 @@ from setuptools import setup
 from _version import __version__
 
 setup(
-    name='caps',
+    name='capsules_utils',
     version=__version__,
     packages=find_packages(),
     scripts=[],
     author='Georgios Chochlakis',
-    url='https://github.com/gchochla/caps',
+    url='https://github.com/gchochla/capsules_utils',
     install_requires=[],
     extras_require={
         'dev': [
