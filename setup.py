@@ -14,7 +14,7 @@ setup(
     packages=find_packages(),
     scripts=[],
     author='Georgios Chochlakis',
-    url='https://github.com/gchochla/capsules_utils',
+    url='https://github.com/gchochla/capsules-utils',
     install_requires=[],
     extras_require={
         'dev': [
